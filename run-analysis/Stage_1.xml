@@ -1,0 +1,774 @@
+<?xml version="1.0"?>
+<alien>
+  <collection name="Stage_1">
+    <event name="1">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:24" dir="88118069" entryId="88118088" expiretime="" gowner="mgiacalo" guid="EEFE9488-9687-11E9-A4C1-FF3FD4440C83" guidtime="11E99687" jobid="1531587739" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/001/root_archive.zip" md5="1ef8aa314e1d649496f818afd1faec19" owner="mgiacalo" perm="755" replicated="0" size="1816253" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/001/root_archive.zip" type="f" />
+    </event>
+    <event name="10">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:05:13" dir="88121613" entryId="88121623" expiretime="" gowner="mgiacalo" guid="CEF53DBA-9699-11E9-989A-B718A7602CD1" guidtime="11E99699" jobid="1531587751" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/013/root_archive.zip" md5="aa14e6c3c5ddc1d2e6394301b85e7d63" owner="mgiacalo" perm="755" replicated="0" size="3148608" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/013/root_archive.zip" type="f" />
+    </event>
+    <event name="100">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:08:39" dir="88118322" entryId="88118332" expiretime="" gowner="mgiacalo" guid="88C0CA72-9689-11E9-B727-AB79E44E8049" guidtime="11E99689" jobid="1531587842" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/104/root_archive.zip" md5="23f93a909895ede0efd5d46b3a01cf4c" owner="mgiacalo" perm="755" replicated="0" size="2711880" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/104/root_archive.zip" type="f" />
+    </event>
+    <event name="101">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:05:30" dir="88118272" entryId="88118276" expiretime="" gowner="mgiacalo" guid="144AB504-9689-11E9-8B53-D74DEBEC172C" guidtime="11E99689" jobid="1531587843" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/105/root_archive.zip" md5="604a8ca8330bb7bb0eb61fa91958bacb" owner="mgiacalo" perm="755" replicated="0" size="2143288" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/105/root_archive.zip" type="f" />
+    </event>
+    <event name="102">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:03:57" dir="88118243" entryId="88118247" expiretime="" gowner="mgiacalo" guid="E5699520-9688-11E9-8DED-D36CA6D48252" guidtime="11E99688" jobid="1531587844" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/106/root_archive.zip" md5="23dd1123ab1351144f3af90fe1fd5c18" owner="mgiacalo" perm="755" replicated="0" size="1992243" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/106/root_archive.zip" type="f" />
+    </event>
+    <event name="103">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:13:21" dir="88120017" entryId="88120027" expiretime="" gowner="mgiacalo" guid="97D0BBE0-9692-11E9-986A-5351A03DB42D" guidtime="11E99692" jobid="1531587845" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/107/root_archive.zip" md5="8ea6d116f280867165c96661d442f834" owner="mgiacalo" perm="755" replicated="0" size="3390084" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/107/root_archive.zip" type="f" />
+    </event>
+    <event name="104">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:19:46" dir="88120196" entryId="88120215" expiretime="" gowner="mgiacalo" guid="7797988E-9693-11E9-9702-F7ADB02A9BDF" guidtime="11E99693" jobid="1531587847" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/109/root_archive.zip" md5="a29a0321edbcd3cc8968e20e2ac00f69" owner="mgiacalo" perm="755" replicated="0" size="3334989" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/109/root_archive.zip" type="f" />
+    </event>
+    <event name="105">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:42:19" dir="88118987" entryId="88119017" expiretime="" gowner="mgiacalo" guid="2F047470-968E-11E9-A8C7-633F783E31AD" guidtime="11E9968E" jobid="1531587848" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/110/root_archive.zip" md5="50062cfe186f9c13e5ff284dfa75f8a7" owner="mgiacalo" perm="755" replicated="0" size="3415827" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/110/root_archive.zip" type="f" />
+    </event>
+    <event name="106">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:44" dir="88118093" entryId="88118096" expiretime="" gowner="mgiacalo" guid="048741EC-9688-11E9-B196-BF2D76A13C26" guidtime="11E99688" jobid="1531587850" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/112/root_archive.zip" md5="0f4444ac13a6eb0295fdabb0616fcf73" owner="mgiacalo" perm="755" replicated="0" size="2065788" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/112/root_archive.zip" type="f" />
+    </event>
+    <event name="107">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:46:19" dir="88125611" entryId="88125637" expiretime="" gowner="mgiacalo" guid="77024BE2-969F-11E9-9DD7-1728ADFF1309" guidtime="11E9969F" jobid="1531587851" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/113/root_archive.zip" md5="3448ad6b4d2f7314766dcde19185136b" owner="mgiacalo" perm="755" replicated="0" size="3407097" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/113/root_archive.zip" type="f" />
+    </event>
+    <event name="108">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:34:52" dir="88125120" entryId="88125184" expiretime="" gowner="mgiacalo" guid="C3E8A246-969D-11E9-B29C-0F02F55E91C5" guidtime="11E9969D" jobid="1531587852" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/114/root_archive.zip" md5="d8570f509219c280c5ec10fc716d6a8f" owner="mgiacalo" perm="755" replicated="0" size="3403426" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/114/root_archive.zip" type="f" />
+    </event>
+    <event name="109">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:34:44" dir="88120654" entryId="88120676" expiretime="" gowner="mgiacalo" guid="7F0366C8-9695-11E9-871F-2F9605DFDE9A" guidtime="11E99695" jobid="1531587853" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/115/root_archive.zip" md5="e65d80fbeea08a81d27658df06c5d63b" owner="mgiacalo" perm="755" replicated="0" size="3324654" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/115/root_archive.zip" type="f" />
+    </event>
+    <event name="11">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:12:11" dir="88121897" entryId="88121901" expiretime="" gowner="mgiacalo" guid="C8CCD320-969A-11E9-8B72-AFE6F1A011D8" guidtime="11E9969A" jobid="1531587752" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/014/root_archive.zip" md5="d02406b597bc6b940aa1bd39024eaa5b" owner="mgiacalo" perm="755" replicated="0" size="3386109" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/014/root_archive.zip" type="f" />
+    </event>
+    <event name="110">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:58:39" dir="88119484" entryId="88119519" expiretime="" gowner="mgiacalo" guid="4CC3B5FA-9690-11E9-8ACE-9F2DF8AE1C96" guidtime="11E99690" jobid="1531587854" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/116/root_archive.zip" md5="aee0dd73c4397dadb61e5d9fdec018bf" owner="mgiacalo" perm="755" replicated="0" size="3214392" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/116/root_archive.zip" type="f" />
+    </event>
+    <event name="111">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:55:03" dir="88119385" entryId="88119393" expiretime="" gowner="mgiacalo" guid="08D131B0-9690-11E9-9EF4-0368B6D229D3" guidtime="11E99690" jobid="1531587855" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/117/root_archive.zip" md5="147096e0a7fe20da766e706b0625f4a6" owner="mgiacalo" perm="755" replicated="0" size="3156471" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/117/root_archive.zip" type="f" />
+    </event>
+    <event name="112">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:07:13" dir="88121647" entryId="88121707" expiretime="" gowner="mgiacalo" guid="EE0AE7C2-9699-11E9-A7B0-2F6666AB2DF8" guidtime="11E99699" jobid="1531587856" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/118/root_archive.zip" md5="db834242c8506ef5458ba1cce6e626c2" owner="mgiacalo" perm="755" replicated="0" size="3120601" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/118/root_archive.zip" type="f" />
+    </event>
+    <event name="113">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:35:17" dir="88118733" entryId="88118738" expiretime="" gowner="mgiacalo" guid="42199DF2-968D-11E9-A85E-8F2C7D64A99B" guidtime="11E9968D" jobid="1531587857" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/119/root_archive.zip" md5="efef54f4d5f722c365b269ff4396c8e3" owner="mgiacalo" perm="755" replicated="0" size="2994881" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/119/root_archive.zip" type="f" />
+    </event>
+    <event name="114">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:53:21" dir="88119251" entryId="88119312" expiretime="" gowner="mgiacalo" guid="833CB312-968F-11E9-B033-F3478175B759" guidtime="11E9968F" jobid="1531587858" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/120/root_archive.zip" md5="350c948dca2f0e6024a9807182931f25" owner="mgiacalo" perm="755" replicated="0" size="2934786" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/120/root_archive.zip" type="f" />
+    </event>
+    <event name="115">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:59:51" dir="88121439" entryId="88121458" expiretime="" gowner="mgiacalo" guid="0BF2EC68-9699-11E9-935B-EF030DEE1237" guidtime="11E99699" jobid="1531587859" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/121/root_archive.zip" md5="1d065907d6be63a962947c769d6209ff" owner="mgiacalo" perm="755" replicated="0" size="2880225" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/121/root_archive.zip" type="f" />
+    </event>
+    <event name="116">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:35" dir="88117961" entryId="88117991" expiretime="" gowner="mgiacalo" guid="92425EFA-9687-11E9-8D42-4B41B139CD9D" guidtime="11E99687" jobid="1531587860" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/122/root_archive.zip" md5="c59af7ed8bed6aea6997a3aa1d337a00" owner="mgiacalo" perm="755" replicated="0" size="1468002" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/122/root_archive.zip" type="f" />
+    </event>
+    <event name="117">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:48:36" dir="88119192" entryId="88119197" expiretime="" gowner="mgiacalo" guid="1463B81E-968F-11E9-A291-230FA949526E" guidtime="11E9968F" jobid="1531587861" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/123/root_archive.zip" md5="76ac53a93f1d2d8aa4b8768e2e6bb3df" owner="mgiacalo" perm="755" replicated="0" size="3134788" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/123/root_archive.zip" type="f" />
+    </event>
+    <event name="118">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:21:29" dir="88118460" entryId="88118491" expiretime="" gowner="mgiacalo" guid="2CAF3A14-968B-11E9-B382-87D1E8C53EA8" guidtime="11E9968B" jobid="1531587862" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/124/root_archive.zip" md5="afecfc8dace20de26a82a4c47f2840ee" owner="mgiacalo" perm="755" replicated="0" size="2751575" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/124/root_archive.zip" type="f" />
+    </event>
+    <event name="119">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:10:10" dir="88118336" entryId="88118359" expiretime="" gowner="mgiacalo" guid="9C52F5E2-9689-11E9-B1E5-570BD7947D51" guidtime="11E99689" jobid="1531587863" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/125/root_archive.zip" md5="897ab7bd3cf1d6104ffdc88e1e8e5144" owner="mgiacalo" perm="755" replicated="0" size="2240964" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/125/root_archive.zip" type="f" />
+    </event>
+    <event name="12">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:19:36" dir="88120138" entryId="88120200" expiretime="" gowner="mgiacalo" guid="477D7BF0-9693-11E9-B75A-77666652327F" guidtime="11E99693" jobid="1531587753" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/015/root_archive.zip" md5="20d42a8bee01bfc427bedc4869a2e8b1" owner="mgiacalo" perm="755" replicated="0" size="3380170" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/015/root_archive.zip" type="f" />
+    </event>
+    <event name="120">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:05" dir="88118109" entryId="88118112" expiretime="" gowner="mgiacalo" guid="0C106C54-9688-11E9-A4E8-7785061DC91F" guidtime="11E99688" jobid="1531587864" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/126/root_archive.zip" md5="58f76afed31b22a7151163a1b7c1c9e6" owner="mgiacalo" perm="755" replicated="0" size="2076189" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/126/root_archive.zip" type="f" />
+    </event>
+    <event name="121">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:42" dir="88118177" entryId="88118192" expiretime="" gowner="mgiacalo" guid="6CB38302-9688-11E9-BF58-B74BFB8B487A" guidtime="11E99688" jobid="1531587865" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/127/root_archive.zip" md5="9d2cd136c2eb1188ac82dff80658cb6d" owner="mgiacalo" perm="755" replicated="0" size="2086282" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/127/root_archive.zip" type="f" />
+    </event>
+    <event name="122">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:31:43" dir="88118616" entryId="88118639" expiretime="" gowner="mgiacalo" guid="A02F13C8-968C-11E9-B1A0-DF9676B3C406" guidtime="11E9968C" jobid="1531587866" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/128/root_archive.zip" md5="f6217560b305f22a78a4bdd39bfab948" owner="mgiacalo" perm="755" replicated="0" size="2805640" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/128/root_archive.zip" type="f" />
+    </event>
+    <event name="123">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:44" dir="88117995" entryId="88118003" expiretime="" gowner="mgiacalo" guid="BF039DA0-9687-11E9-9D00-8B20FFB7DF2A" guidtime="11E99687" jobid="1531587867" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/129/root_archive.zip" md5="02ee4becb6ec01ccb44934647c68c881" owner="mgiacalo" perm="755" replicated="0" size="1545592" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/129/root_archive.zip" type="f" />
+    </event>
+    <event name="124">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:29:10" dir="88118597" entryId="88118607" expiretime="" gowner="mgiacalo" guid="64B84DAA-968C-11E9-A6E3-33BEB54C61CF" guidtime="11E9968C" jobid="1531587868" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/130/root_archive.zip" md5="6e48095a67fa9619b357fdfb8e706f07" owner="mgiacalo" perm="755" replicated="0" size="2602956" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/130/root_archive.zip" type="f" />
+    </event>
+    <event name="125">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:32" dir="88118151" entryId="88118182" expiretime="" gowner="mgiacalo" guid="5AF512FC-9688-11E9-9154-7B803C2CAAC3" guidtime="11E99688" jobid="1531587869" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/131/root_archive.zip" md5="29312b6e2a4c492d3bc0cdcef4ccd92e" owner="mgiacalo" perm="755" replicated="0" size="2136655" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/131/root_archive.zip" type="f" />
+    </event>
+    <event name="126">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:05" dir="88117964" entryId="88118026" expiretime="" gowner="mgiacalo" guid="9762A804-9687-11E9-BD35-376120F318E7" guidtime="11E99687" jobid="1531587870" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/132/root_archive.zip" md5="6335cfc4a79a56d06e881cf0ac330c67" owner="mgiacalo" perm="755" replicated="0" size="1742793" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/132/root_archive.zip" type="f" />
+    </event>
+    <event name="127">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:53:53" dir="88117938" entryId="88117953" expiretime="" gowner="mgiacalo" guid="769CA48A-9687-11E9-911C-AF7FF4E219F1" guidtime="11E99687" jobid="1531587871" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/133/root_archive.zip" md5="95f7d35d1e284b82cf3bc1d3726ea9a6" owner="mgiacalo" perm="755" replicated="0" size="1405584" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/133/root_archive.zip" type="f" />
+    </event>
+    <event name="128">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:44" dir="88117972" entryId="88118008" expiretime="" gowner="mgiacalo" guid="9E8138DA-9687-11E9-9D9B-A7A57D145219" guidtime="11E99687" jobid="1531587872" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/134/root_archive.zip" md5="d8cd6ce9ce4de9385defa54b2e10fe1b" owner="mgiacalo" perm="755" replicated="0" size="1569147" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/134/root_archive.zip" type="f" />
+    </event>
+    <event name="129">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:06:55" dir="88118280" entryId="88118299" expiretime="" gowner="mgiacalo" guid="42292B9A-9689-11E9-BB92-0FBE852DF229" guidtime="11E99689" jobid="1531587873" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/135/root_archive.zip" md5="47e013a7cfbbfae05024a0e96383ea12" owner="mgiacalo" perm="755" replicated="0" size="2118817" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/135/root_archive.zip" type="f" />
+    </event>
+    <event name="13">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:00:34" dir="88119574" entryId="88119584" expiretime="" gowner="mgiacalo" guid="C624964E-9690-11E9-A68D-E7885E92F70A" guidtime="11E99690" jobid="1531587754" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/016/root_archive.zip" md5="13ede9f7ac249fbec2991acc4eaf7fb4" owner="mgiacalo" perm="755" replicated="0" size="3341394" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/016/root_archive.zip" type="f" />
+    </event>
+    <event name="130">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:52:51" dir="88119264" entryId="88119279" expiretime="" gowner="mgiacalo" guid="B3273CBE-968F-11E9-9B29-1B7A4834AC7D" guidtime="11E9968F" jobid="1531587874" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/136/root_archive.zip" md5="d0f415255dea9a77b85e926517aea6f8" owner="mgiacalo" perm="755" replicated="0" size="3375581" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/136/root_archive.zip" type="f" />
+    </event>
+    <event name="131">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:40:13" dir="88118919" entryId="88118935" expiretime="" gowner="mgiacalo" guid="EC949278-968D-11E9-BA51-2F7333A2DCE3" guidtime="11E9968D" jobid="1531587875" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/137/root_archive.zip" md5="9f7d52395d8dd500d8ae5e9f94df31b5" owner="mgiacalo" perm="755" replicated="0" size="3090948" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/137/root_archive.zip" type="f" />
+    </event>
+    <event name="132">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:02:45" dir="88118214" entryId="88118218" expiretime="" gowner="mgiacalo" guid="B0825B26-9688-11E9-A74C-F7F6E167F691" guidtime="11E99688" jobid="1531587876" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/138/root_archive.zip" md5="8e004246ad7d8556caf5c915b249618b" owner="mgiacalo" perm="755" replicated="0" size="2136874" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/138/root_archive.zip" type="f" />
+    </event>
+    <event name="133">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:55" dir="88117962" entryId="88118014" expiretime="" gowner="mgiacalo" guid="94ED1C76-9687-11E9-8BFC-5FDBE2185A9B" guidtime="11E99687" jobid="1531587877" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/139/root_archive.zip" md5="3e73cb56390b972bc59f1b6dae67577b" owner="mgiacalo" perm="755" replicated="0" size="1675833" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/139/root_archive.zip" type="f" />
+    </event>
+    <event name="134">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:47" dir="88117987" entryId="88118059" expiretime="" gowner="mgiacalo" guid="B7872628-9687-11E9-BE8C-7FBBCC6100B7" guidtime="11E99687" jobid="1531587878" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/140/root_archive.zip" md5="7a1a806804734953b3970216658592ee" owner="mgiacalo" perm="755" replicated="0" size="1479156" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/140/root_archive.zip" type="f" />
+    </event>
+    <event name="135">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:45:40" dir="88119116" entryId="88119133" expiretime="" gowner="mgiacalo" guid="AE6AFD2E-968E-11E9-90F4-9BD0B247DBC4" guidtime="11E9968E" jobid="1531587879" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/141/root_archive.zip" md5="261aca54a9b6a3e024164136993ae3bf" owner="mgiacalo" perm="755" replicated="0" size="3333161" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/141/root_archive.zip" type="f" />
+    </event>
+    <event name="136">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:12:10" dir="88119983" entryId="88119993" expiretime="" gowner="mgiacalo" guid="667FDE22-9692-11E9-A371-0764169BA16B" guidtime="11E99692" jobid="1531587880" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/142/root_archive.zip" md5="2d4b356b8709bf7fd95305c6eb25c5be" owner="mgiacalo" perm="755" replicated="0" size="3404921" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/142/root_archive.zip" type="f" />
+    </event>
+    <event name="137">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:53:11" dir="88119265" entryId="88119306" expiretime="" gowner="mgiacalo" guid="BB93FD92-968F-11E9-85C5-53924317D126" guidtime="11E9968F" jobid="1531587881" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/143/root_archive.zip" md5="d7727ca7456440f8118d8daf7c0fb033" owner="mgiacalo" perm="755" replicated="0" size="3292608" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/143/root_archive.zip" type="f" />
+    </event>
+    <event name="138">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:32:54" dir="88120612" entryId="88120625" expiretime="" gowner="mgiacalo" guid="4510F2C8-9695-11E9-B97D-13E6ED54EC77" guidtime="11E99695" jobid="1531587882" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/144/root_archive.zip" md5="66f7d253fd903e9773f437a9087fdf20" owner="mgiacalo" perm="755" replicated="0" size="3154147" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/144/root_archive.zip" type="f" />
+    </event>
+    <event name="139">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:24:22" dir="88118524" entryId="88118528" expiretime="" gowner="mgiacalo" guid="B7F9DC32-968B-11E9-A563-275C2DBA7F4E" guidtime="11E9968B" jobid="1531587883" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/145/root_archive.zip" md5="c8356d03286cffc0d6de9af9ea86134e" owner="mgiacalo" perm="755" replicated="0" size="2762369" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/145/root_archive.zip" type="f" />
+    </event>
+    <event name="14">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:48:00" dir="88121035" entryId="88121043" expiretime="" gowner="mgiacalo" guid="6781A2A6-9697-11E9-964F-FBE18CDEB6CB" guidtime="11E99697" jobid="1531587755" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/017/root_archive.zip" md5="dc07e26e09c135a599084dc12189c57d" owner="mgiacalo" perm="755" replicated="0" size="3361396" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/017/root_archive.zip" type="f" />
+    </event>
+    <event name="140">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:33:45" dir="88118647" entryId="88118682" expiretime="" gowner="mgiacalo" guid="D8E65564-968C-11E9-AFE8-BF190B5B11A6" guidtime="11E9968C" jobid="1531587885" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/147/root_archive.zip" md5="2a1b00026846d64b066c6e89b1065336" owner="mgiacalo" perm="755" replicated="0" size="3307300" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/147/root_archive.zip" type="f" />
+    </event>
+    <event name="141">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:10:41" dir="88118343" entryId="88118371" expiretime="" gowner="mgiacalo" guid="9D73FE26-9689-11E9-99FE-0BBA83D60E37" guidtime="11E99689" jobid="1531587886" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/148/root_archive.zip" md5="8d2437c6612f6bf9583790c039b5fc36" owner="mgiacalo" perm="755" replicated="0" size="2545709" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/148/root_archive.zip" type="f" />
+    </event>
+    <event name="142">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:54:53" dir="88117950" entryId="88117979" expiretime="" gowner="mgiacalo" guid="7B309042-9687-11E9-BF59-07E7DF774672" guidtime="11E99687" jobid="1531587888" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/150/root_archive.zip" md5="5129b19c7e74f0962e71f1da5c58a962" owner="mgiacalo" perm="755" replicated="0" size="1483232" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/150/root_archive.zip" type="f" />
+    </event>
+    <event name="143">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:00" dir="88118138" entryId="88118154" expiretime="" gowner="mgiacalo" guid="30E658AE-9688-11E9-8653-B781169239FC" guidtime="11E99688" jobid="1531587889" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/151/root_archive.zip" md5="3f692fe37ba848be8c10f08e0c0818ad" owner="mgiacalo" perm="755" replicated="0" size="2167620" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/151/root_archive.zip" type="f" />
+    </event>
+    <event name="144">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:11:41" dir="88118352" entryId="88118378" expiretime="" gowner="mgiacalo" guid="C571E65E-9689-11E9-9E56-9361D541B2A0" guidtime="11E99689" jobid="1531587890" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/152/root_archive.zip" md5="d3bd8f81aef8b0ddd0c90a9193a87363" owner="mgiacalo" perm="755" replicated="0" size="2713184" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/152/root_archive.zip" type="f" />
+    </event>
+    <event name="145">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:24:55" dir="88118519" entryId="88118543" expiretime="" gowner="mgiacalo" guid="9F4CD7E8-968B-11E9-9073-87EABBCF1840" guidtime="11E9968B" jobid="1531587891" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/153/root_archive.zip" md5="2e5b4338902d4b26b766e584f75c97b7" owner="mgiacalo" perm="755" replicated="0" size="3013028" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/153/root_archive.zip" type="f" />
+    </event>
+    <event name="146">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:47" dir="88117988" entryId="88118065" expiretime="" gowner="mgiacalo" guid="B7E55A72-9687-11E9-AAE4-EF9541D61F66" guidtime="11E99687" jobid="1531587893" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/155/root_archive.zip" md5="2bf07d3a920d1bce5232aad3f12f5bac" owner="mgiacalo" perm="755" replicated="0" size="1831759" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/155/root_archive.zip" type="f" />
+    </event>
+    <event name="147">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:20" dir="88118137" entryId="88118169" expiretime="" gowner="mgiacalo" guid="2E56B6EC-9688-11E9-A082-D3CF2DD1A2A1" guidtime="11E99688" jobid="1531587894" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/156/root_archive.zip" md5="c4598e6f15277865e40b085009a16a56" owner="mgiacalo" perm="755" replicated="0" size="2120968" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/156/root_archive.zip" type="f" />
+    </event>
+    <event name="148">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:23" dir="88118039" entryId="88118083" expiretime="" gowner="mgiacalo" guid="D04F83F8-9687-11E9-9BA1-77EAAF7F723B" guidtime="11E99687" jobid="1531587895" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/157/root_archive.zip" md5="5364871480f439f434be14e09589a6f0" owner="mgiacalo" perm="755" replicated="0" size="1630321" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/157/root_archive.zip" type="f" />
+    </event>
+    <event name="149">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:05" dir="88117970" entryId="88118031" expiretime="" gowner="mgiacalo" guid="9C2E4AA0-9687-11E9-9CF4-67670FD183EC" guidtime="11E99687" jobid="1531587896" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/158/root_archive.zip" md5="65052ff6c3b6e043648286b8ed615532" owner="mgiacalo" perm="755" replicated="0" size="1472106" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/158/root_archive.zip" type="f" />
+    </event>
+    <event name="15">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:27:34" dir="88120462" entryId="88120479" expiretime="" gowner="mgiacalo" guid="84496106-9694-11E9-846D-0352543F3C01" guidtime="11E99694" jobid="1531587756" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/018/root_archive.zip" md5="b8d8d5f08e667405d3c70227057dd82e" owner="mgiacalo" perm="755" replicated="0" size="3415343" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/018/root_archive.zip" type="f" />
+    </event>
+    <event name="150">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:10" dir="88117994" entryId="88118072" expiretime="" gowner="mgiacalo" guid="BD75479A-9687-11E9-8D79-D39FDB2C102E" guidtime="11E99687" jobid="1531587898" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/160/root_archive.zip" md5="e75001ad79e1dbcf977c93aacc4e1e21" owner="mgiacalo" perm="755" replicated="0" size="1735035" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/160/root_archive.zip" type="f" />
+    </event>
+    <event name="151">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:07:36" dir="88118302" entryId="88118307" expiretime="" gowner="mgiacalo" guid="55C55354-9689-11E9-82D2-F74FCB614D58" guidtime="11E99689" jobid="1531587899" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/161/root_archive.zip" md5="a3ff0b8389e413c7ae34ab5163ba2238" owner="mgiacalo" perm="755" replicated="0" size="2400712" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/161/root_archive.zip" type="f" />
+    </event>
+    <event name="152">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:57" dir="88118056" entryId="88118141" expiretime="" gowner="mgiacalo" guid="E5D97F76-9687-11E9-9000-6385255F1BEE" guidtime="11E99687" jobid="1531587900" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/162/root_archive.zip" md5="7001587c436fe82f820206423d60b404" owner="mgiacalo" perm="755" replicated="0" size="1524497" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/162/root_archive.zip" type="f" />
+    </event>
+    <event name="153">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:52:51" dir="88119254" entryId="88119285" expiretime="" gowner="mgiacalo" guid="8F346908-968F-11E9-B891-071BCAF8749C" guidtime="11E9968F" jobid="1531587901" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/163/root_archive.zip" md5="1bae74bf69ecd23065714f9460aae868" owner="mgiacalo" perm="755" replicated="0" size="3282290" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/163/root_archive.zip" type="f" />
+    </event>
+    <event name="154">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:38:09" dir="88124980" entryId="88125379" expiretime="" gowner="mgiacalo" guid="8BE33014-969D-11E9-9A97-E357214B3718" guidtime="11E9969D" jobid="1531587902" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/164/root_archive.zip" md5="a10839c579aa2d7c9012165f26518b38" owner="mgiacalo" perm="755" replicated="0" size="3193955" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/164/root_archive.zip" type="f" />
+    </event>
+    <event name="155">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:52:51" dir="88119252" entryId="88119291" expiretime="" gowner="mgiacalo" guid="870A0D28-968F-11E9-BA9A-CBFD33FA6D0C" guidtime="11E9968F" jobid="1531587903" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/165/root_archive.zip" md5="1c0a2da399a34da628e5452ccc53aac2" owner="mgiacalo" perm="755" replicated="0" size="2955937" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/165/root_archive.zip" type="f" />
+    </event>
+    <event name="156">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:48:05" dir="88119152" entryId="88119177" expiretime="" gowner="mgiacalo" guid="DBF6E370-968E-11E9-ADB8-0F83F74A2BBB" guidtime="11E9968E" jobid="1531587904" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/166/root_archive.zip" md5="1ee0ddd2dffca3f4470bc0644cda3230" owner="mgiacalo" perm="755" replicated="0" size="3172039" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/166/root_archive.zip" type="f" />
+    </event>
+    <event name="157">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:31:11" dir="88124763" entryId="88124969" expiretime="" gowner="mgiacalo" guid="10D824C4-969D-11E9-8F11-434E73E6F9EE" guidtime="11E9969D" jobid="1531587905" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/167/root_archive.zip" md5="c3f1211bbfff5c8ffc6502a6beaf012a" owner="mgiacalo" perm="755" replicated="0" size="3117216" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/167/root_archive.zip" type="f" />
+    </event>
+    <event name="158">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:12:31" dir="88121855" entryId="88121925" expiretime="" gowner="mgiacalo" guid="9E2FB218-969A-11E9-A53E-BFAC75A88F3C" guidtime="11E9969A" jobid="1531587906" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/168/root_archive.zip" md5="7fbfb6ba7185c661d815d1324bedab74" owner="mgiacalo" perm="755" replicated="0" size="2855429" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/168/root_archive.zip" type="f" />
+    </event>
+    <event name="159">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:37:39" dir="88125203" entryId="88125345" expiretime="" gowner="mgiacalo" guid="FFF9208A-969D-11E9-BBA8-8B2EDC0E0043" guidtime="11E9969D" jobid="1531587908" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/170/root_archive.zip" md5="3b60e640772a393fd091a22ac279adb6" owner="mgiacalo" perm="755" replicated="0" size="3410758" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/170/root_archive.zip" type="f" />
+    </event>
+    <event name="16">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:17:07" dir="88120102" entryId="88120110" expiretime="" gowner="mgiacalo" guid="1BD935D4-9693-11E9-8BBA-632BB031AB75" guidtime="11E99693" jobid="1531587758" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/020/root_archive.zip" md5="b54731c4daf2f555e683708c37ca53fb" owner="mgiacalo" perm="755" replicated="0" size="3427922" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/020/root_archive.zip" type="f" />
+    </event>
+    <event name="160">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:31:02" dir="88118611" entryId="88118620" expiretime="" gowner="mgiacalo" guid="7DE15042-968C-11E9-B6D6-778C3861029C" guidtime="11E9968C" jobid="1531587912" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/174/root_archive.zip" md5="f86fbb78b123a2f1d029c4e437d8293d" owner="mgiacalo" perm="755" replicated="0" size="2918881" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/174/root_archive.zip" type="f" />
+    </event>
+    <event name="161">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:50:08" dir="88119209" entryId="88119227" expiretime="" gowner="mgiacalo" guid="308368E6-968F-11E9-A380-7B6B12C68BCB" guidtime="11E9968F" jobid="1531587913" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/175/root_archive.zip" md5="a5c717d2c390c39844aaef14b8ba6aa3" owner="mgiacalo" perm="755" replicated="0" size="3334331" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/175/root_archive.zip" type="f" />
+    </event>
+    <event name="162">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:13:13" dir="88118381" entryId="88118391" expiretime="" gowner="mgiacalo" guid="FEB783F6-9689-11E9-8AED-7344FD05B7E6" guidtime="11E99689" jobid="1531587914" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/176/root_archive.zip" md5="d617642dba152a932d817239a7a42e24" owner="mgiacalo" perm="755" replicated="0" size="2484749" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/176/root_archive.zip" type="f" />
+    </event>
+    <event name="163">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:44" dir="88118040" entryId="88118101" expiretime="" gowner="mgiacalo" guid="D08A6C02-9687-11E9-A130-47C0B15A762F" guidtime="11E99687" jobid="1531587915" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/177/root_archive.zip" md5="7082221494630d9cb9c47da15cfa53f8" owner="mgiacalo" perm="755" replicated="0" size="1669267" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/177/root_archive.zip" type="f" />
+    </event>
+    <event name="164">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:16" dir="88117973" entryId="88118048" expiretime="" gowner="mgiacalo" guid="A01CA652-9687-11E9-B8E6-A7FB353D4872" guidtime="11E99687" jobid="1531587916" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/178/root_archive.zip" md5="930f2bd482c7a7008530d6d8a1372c1e" owner="mgiacalo" perm="755" replicated="0" size="1421637" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/178/root_archive.zip" type="f" />
+    </event>
+    <event name="165">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:08:59" dir="88118310" entryId="88118340" expiretime="" gowner="mgiacalo" guid="6C4D8EE8-9689-11E9-B505-0F113E45D4E5" guidtime="11E99689" jobid="1531587917" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/179/root_archive.zip" md5="658998043750aec71623f55692e709e5" owner="mgiacalo" perm="755" replicated="0" size="2531776" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/179/root_archive.zip" type="f" />
+    </event>
+    <event name="166">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:44:37" dir="88119044" entryId="88119101" expiretime="" gowner="mgiacalo" guid="5EDB1668-968E-11E9-9ED3-B7C7470E639D" guidtime="11E9968E" jobid="1531587918" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/180/root_archive.zip" md5="c89fb3e8c6e0fac84bc22d416c5b032c" owner="mgiacalo" perm="755" replicated="0" size="3301958" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/180/root_archive.zip" type="f" />
+    </event>
+    <event name="167">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:56:55" dir="88119414" entryId="88119488" expiretime="" gowner="mgiacalo" guid="196558B2-9690-11E9-8EDF-4BB440488365" guidtime="11E99690" jobid="1531587919" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/181/root_archive.zip" md5="521a6c9b36b895aea83ba00976bf3b47" owner="mgiacalo" perm="755" replicated="0" size="3142996" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/181/root_archive.zip" type="f" />
+    </event>
+    <event name="168">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:33:45" dir="88118648" entryId="88118688" expiretime="" gowner="mgiacalo" guid="DF3C25F6-968C-11E9-8A95-270AE4E0E065" guidtime="11E9968C" jobid="1531587920" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/182/root_archive.zip" md5="a42029c21d075c4671819df7e60dd245" owner="mgiacalo" perm="755" replicated="0" size="2791919" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/182/root_archive.zip" type="f" />
+    </event>
+    <event name="169">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:35:57" dir="88118707" entryId="88118768" expiretime="" gowner="mgiacalo" guid="2CCFDEFC-968D-11E9-B0C7-EB5B1C2D8C49" guidtime="11E9968D" jobid="1531587921" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/183/root_archive.zip" md5="d05cd64db624abe10f0b3d051db6126d" owner="mgiacalo" perm="755" replicated="0" size="3238827" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/183/root_archive.zip" type="f" />
+    </event>
+    <event name="17">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:50:59" dir="88119240" entryId="88119244" expiretime="" gowner="mgiacalo" guid="742FE358-968F-11E9-8A94-CF4D39C9E424" guidtime="11E9968F" jobid="1531587759" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/021/root_archive.zip" md5="d0f29a46eb49d619ea0d9f3654756f8a" owner="mgiacalo" perm="755" replicated="0" size="3173023" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/021/root_archive.zip" type="f" />
+    </event>
+    <event name="170">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:05:10" dir="88118236" entryId="88118269" expiretime="" gowner="mgiacalo" guid="E0382E54-9688-11E9-B9F0-7BA42AB541C4" guidtime="11E99688" jobid="1531587922" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/184/root_archive.zip" md5="33597920e047ccd2019a005a80622447" owner="mgiacalo" perm="755" replicated="0" size="2003656" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/184/root_archive.zip" type="f" />
+    </event>
+    <event name="171">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:03:16" dir="88118207" entryId="88118226" expiretime="" gowner="mgiacalo" guid="A0CF4018-9688-11E9-B4EF-4B51A12F54C4" guidtime="11E99688" jobid="1531587923" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/185/root_archive.zip" md5="241d8117ab2437c2debdd3ae181bf28f" owner="mgiacalo" perm="755" replicated="0" size="2083309" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/185/root_archive.zip" type="f" />
+    </event>
+    <event name="172">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:06:46" dir="88118265" entryId="88118287" expiretime="" gowner="mgiacalo" guid="12FF372E-9689-11E9-9BD2-B7FFE8ECD480" guidtime="11E99689" jobid="1531587924" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/186/root_archive.zip" md5="fedbaf6258407e9352d404328e0d98d6" owner="mgiacalo" perm="755" replicated="0" size="2120632" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/186/root_archive.zip" type="f" />
+    </event>
+    <event name="173">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:03:37" dir="88118229" entryId="88118233" expiretime="" gowner="mgiacalo" guid="D515E296-9688-11E9-8C25-B7E90F73A088" guidtime="11E99688" jobid="1531587925" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/187/root_archive.zip" md5="5ba5e0507ad8023e6b663ccf487bdaa1" owner="mgiacalo" perm="755" replicated="0" size="2161215" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/187/root_archive.zip" type="f" />
+    </event>
+    <event name="174">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:55" dir="88117971" entryId="88118019" expiretime="" gowner="mgiacalo" guid="9DC96282-9687-11E9-B18B-6B515410D399" guidtime="11E99687" jobid="1531587926" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/188/root_archive.zip" md5="2c253caf6cb5c8acd0af845cc37dd285" owner="mgiacalo" perm="755" replicated="0" size="1489597" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/188/root_archive.zip" type="f" />
+    </event>
+    <event name="175">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:04" dir="88117976" entryId="88117984" expiretime="" gowner="mgiacalo" guid="A392DF7C-9687-11E9-AEB9-13C2BFB8A95F" guidtime="11E99687" jobid="1531587927" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/189/root_archive.zip" md5="20de38e61b24c3c6dee2894c686527d4" owner="mgiacalo" perm="755" replicated="0" size="1626333" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/189/root_archive.zip" type="f" />
+    </event>
+    <event name="176">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:50:39" dir="88119218" entryId="88119237" expiretime="" gowner="mgiacalo" guid="39039BB2-968F-11E9-95AA-A7483C142150" guidtime="11E9968F" jobid="1531587928" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/190/root_archive.zip" md5="786d59cc138d679f306c53db36e87ee0" owner="mgiacalo" perm="755" replicated="0" size="3369179" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/190/root_archive.zip" type="f" />
+    </event>
+    <event name="177">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:41:59" dir="88118950" entryId="88119002" expiretime="" gowner="mgiacalo" guid="FF812B08-968D-11E9-998C-EB58E7BEB8AD" guidtime="11E9968D" jobid="1531587929" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/191/root_archive.zip" md5="930e6d98e2eec3036cefc88e53eec508" owner="mgiacalo" perm="755" replicated="0" size="3172994" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/191/root_archive.zip" type="f" />
+    </event>
+    <event name="178">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:21:29" dir="88118459" entryId="88118497" expiretime="" gowner="mgiacalo" guid="281A03F8-968B-11E9-97D4-AB4D106E1FCE" guidtime="11E9968B" jobid="1531587930" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/192/root_archive.zip" md5="133a480a6f167cdbe904b81c5d4afbb5" owner="mgiacalo" perm="755" replicated="0" size="2784780" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/192/root_archive.zip" type="f" />
+    </event>
+    <event name="179">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:13:42" dir="88119989" entryId="88120039" expiretime="" gowner="mgiacalo" guid="6C73672C-9692-11E9-88C2-B7DF182AA89E" guidtime="11E99692" jobid="1531587931" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/193/root_archive.zip" md5="26a8289518b5958fd471ed5732c91794" owner="mgiacalo" perm="755" replicated="0" size="3319396" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/193/root_archive.zip" type="f" />
+    </event>
+    <event name="18">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:35:57" dir="88118759" entryId="88118774" expiretime="" gowner="mgiacalo" guid="5714ABA2-968D-11E9-9E72-7B99C89B7ED6" guidtime="11E9968D" jobid="1531587760" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/022/root_archive.zip" md5="235f61a3c81e0c33bf7905e8199ebc35" owner="mgiacalo" perm="755" replicated="0" size="3208292" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/022/root_archive.zip" type="f" />
+    </event>
+    <event name="180">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:19:57" dir="88120165" entryId="88120226" expiretime="" gowner="mgiacalo" guid="589701EA-9693-11E9-BE00-7B64F11523C0" guidtime="11E99693" jobid="1531587932" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/194/root_archive.zip" md5="da412db3b05ac91629f659a4a467a641" owner="mgiacalo" perm="755" replicated="0" size="3363695" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/194/root_archive.zip" type="f" />
+    </event>
+    <event name="181">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:37:49" dir="88118798" entryId="88118856" expiretime="" gowner="mgiacalo" guid="6F978FA0-968D-11E9-B478-7B3F12ADB402" guidtime="11E9968D" jobid="1531587933" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/195/root_archive.zip" md5="90ec032d8e5f44713112f2cdeee9e88b" owner="mgiacalo" perm="755" replicated="0" size="2859061" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/195/root_archive.zip" type="f" />
+    </event>
+    <event name="182">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:15" dir="88118068" entryId="88118122" expiretime="" gowner="mgiacalo" guid="EEBF37E8-9687-11E9-A440-DFCED28A11A0" guidtime="11E99687" jobid="1531587934" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/196/root_archive.zip" md5="b3f44a85ed7614b1b530db007f19ac98" owner="mgiacalo" perm="755" replicated="0" size="1700974" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/196/root_archive.zip" type="f" />
+    </event>
+    <event name="183">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:17:02" dir="88118415" entryId="88118447" expiretime="" gowner="mgiacalo" guid="92DB88FC-968A-11E9-B2B3-1B012661F21E" guidtime="11E9968A" jobid="1531587935" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/197/root_archive.zip" md5="ad399f8a8435e3a2ef17a6d5ce81b937" owner="mgiacalo" perm="755" replicated="0" size="2793895" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/197/root_archive.zip" type="f" />
+    </event>
+    <event name="184">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:09:10" dir="88118335" entryId="88118348" expiretime="" gowner="mgiacalo" guid="90B3DA3A-9689-11E9-8717-83DDC737D228" guidtime="11E99689" jobid="1531587936" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/198/root_archive.zip" md5="93737c495fbf226cef6469edb6ed1dab" owner="mgiacalo" perm="755" replicated="0" size="2423477" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/198/root_archive.zip" type="f" />
+    </event>
+    <event name="185">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:00" dir="88118125" entryId="88118159" expiretime="" gowner="mgiacalo" guid="24A95258-9688-11E9-8585-AF675311C837" guidtime="11E99688" jobid="1531587937" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/199/root_archive.zip" md5="8775f040704ea62fdfb08d2712de601c" owner="mgiacalo" perm="755" replicated="0" size="2149854" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/199/root_archive.zip" type="f" />
+    </event>
+    <event name="186">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:05" dir="88118062" entryId="88118117" expiretime="" gowner="mgiacalo" guid="E87E5472-9687-11E9-AF06-DB3F91D0CEFF" guidtime="11E99687" jobid="1531587938" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/200/root_archive.zip" md5="1125bb75329210b36663ffc1362379ff" owner="mgiacalo" perm="755" replicated="0" size="1759186" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/200/root_archive.zip" type="f" />
+    </event>
+    <event name="187">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:54:34" dir="88117934" entryId="88117967" expiretime="" gowner="mgiacalo" guid="6DC66954-9687-11E9-A48B-EF451DEB3CAC" guidtime="11E99687" jobid="1531587939" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/201/root_archive.zip" md5="ca837fdfb97db71ac5449264ef8de555" owner="mgiacalo" perm="755" replicated="0" size="1454641" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/201/root_archive.zip" type="f" />
+    </event>
+    <event name="188">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:15" dir="88117974" entryId="88118043" expiretime="" gowner="mgiacalo" guid="A04AAE44-9687-11E9-81F0-AF25A2D387B8" guidtime="11E99687" jobid="1531587940" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/202/root_archive.zip" md5="3b22125f7232a6474e23d5eb5a6bc794" owner="mgiacalo" perm="755" replicated="0" size="1454929" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/202/root_archive.zip" type="f" />
+    </event>
+    <event name="189">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:05" dir="88117975" entryId="88118036" expiretime="" gowner="mgiacalo" guid="A14716AC-9687-11E9-8911-E7C575F098E5" guidtime="11E99687" jobid="1531587941" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/203/root_archive.zip" md5="c379fac6e98f50ee282d2b37ed8fc224" owner="mgiacalo" perm="755" replicated="0" size="1478727" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/203/root_archive.zip" type="f" />
+    </event>
+    <event name="19">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:14:33" dir="88120030" entryId="88120052" expiretime="" gowner="mgiacalo" guid="9D1F2BAE-9692-11E9-8B42-FF926DD1DC72" guidtime="11E99692" jobid="1531587761" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/023/root_archive.zip" md5="b1af94ca6dd4deb792937f7b520497d2" owner="mgiacalo" perm="755" replicated="0" size="3392880" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/023/root_archive.zip" type="f" />
+    </event>
+    <event name="190">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:20" dir="88118145" entryId="88118174" expiretime="" gowner="mgiacalo" guid="37C4B6B6-9688-11E9-9AD2-EB8E69FB429D" guidtime="11E99688" jobid="1531587942" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/204/root_archive.zip" md5="dd1c804fbfca752e1c36fd60c0be20fa" owner="mgiacalo" perm="755" replicated="0" size="1739157" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/204/root_archive.zip" type="f" />
+    </event>
+    <event name="191">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:27:57" dir="88118573" entryId="88118583" expiretime="" gowner="mgiacalo" guid="1397F394-968C-11E9-968E-5B3F2A83E03F" guidtime="11E9968C" jobid="1531587943" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/205/root_archive.zip" md5="40f16d35b552f68e3f21a8cdaa9aae70" owner="mgiacalo" perm="755" replicated="0" size="2739013" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/205/root_archive.zip" type="f" />
+    </event>
+    <event name="192">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:32" dir="88118144" entryId="88118187" expiretime="" gowner="mgiacalo" guid="36660A5E-9688-11E9-A2E4-77249B8B5EDF" guidtime="11E99688" jobid="1531587944" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/206/root_archive.zip" md5="aac8875aed7590ba7ba6a365da2a5f10" owner="mgiacalo" perm="755" replicated="0" size="1865698" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/206/root_archive.zip" type="f" />
+    </event>
+    <event name="2">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:31:51" dir="88120583" entryId="88120609" expiretime="" gowner="mgiacalo" guid="15151DC4-9695-11E9-9339-0381E454A704" guidtime="11E99695" jobid="1531587740" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/002/root_archive.zip" md5="794e28019c0217c38b042db2e4deb1a5" owner="mgiacalo" perm="755" replicated="0" size="3339025" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/002/root_archive.zip" type="f" />
+    </event>
+    <event name="20">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:46:25" dir="88120979" entryId="88121007" expiretime="" gowner="mgiacalo" guid="29868AB6-9697-11E9-B2BA-D720D27E8CEC" guidtime="11E99697" jobid="1531587762" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/024/root_archive.zip" md5="93d3bb7a5cba80c14ae7ed678937e920" owner="mgiacalo" perm="755" replicated="0" size="3364892" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/024/root_archive.zip" type="f" />
+    </event>
+    <event name="21">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:12:22" dir="88119984" entryId="88120004" expiretime="" gowner="mgiacalo" guid="685D8406-9692-11E9-9A0F-6BBD6A670F28" guidtime="11E99692" jobid="1531587763" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/025/root_archive.zip" md5="76c75f69bf1a4a68500cb003de91d302" owner="mgiacalo" perm="755" replicated="0" size="3402991" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/025/root_archive.zip" type="f" />
+    </event>
+    <event name="22">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:11:10" dir="88119903" entryId="88119943" expiretime="" gowner="mgiacalo" guid="3EF58AA0-9692-11E9-BA1B-63A599198E96" guidtime="11E99692" jobid="1531587764" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/026/root_archive.zip" md5="3bfa09a7c80d92c8f321a4923f549aa6" owner="mgiacalo" perm="755" replicated="0" size="3399116" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/026/root_archive.zip" type="f" />
+    </event>
+    <event name="23">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:16:06" dir="88120085" entryId="88120095" expiretime="" gowner="mgiacalo" guid="E9EDF0C8-9692-11E9-B81D-E37910D34490" guidtime="11E99692" jobid="1531587765" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/027/root_archive.zip" md5="a30a3a2538098236d44ad02b065e59ac" owner="mgiacalo" perm="755" replicated="0" size="3391090" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/027/root_archive.zip" type="f" />
+    </event>
+    <event name="24">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:02:18" dir="88119529" entryId="88119641" expiretime="" gowner="mgiacalo" guid="A2F1CEB2-9690-11E9-A913-4783DAE7FA14" guidtime="11E99690" jobid="1531587766" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/028/root_archive.zip" md5="5792dafae86f17b8baf07d4e28621ac1" owner="mgiacalo" perm="755" replicated="0" size="3336589" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/028/root_archive.zip" type="f" />
+    </event>
+    <event name="25">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:44:48" dir="88119089" entryId="88119107" expiretime="" gowner="mgiacalo" guid="8D7D35C8-968E-11E9-8318-5354FD4DEFDB" guidtime="11E9968E" jobid="1531587767" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/029/root_archive.zip" md5="8690ac3a220e1496374bfc6685767188" owner="mgiacalo" perm="755" replicated="0" size="3410267" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/029/root_archive.zip" type="f" />
+    </event>
+    <event name="26">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:03:51" dir="88119654" entryId="88119659" expiretime="" gowner="mgiacalo" guid="3C45F5FC-9691-11E9-B7CF-DBE8E4491D7E" guidtime="11E99691" jobid="1531587768" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/030/root_archive.zip" md5="39a7750c8ff04268738e0c99e711b57c" owner="mgiacalo" perm="755" replicated="0" size="3408385" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/030/root_archive.zip" type="f" />
+    </event>
+    <event name="27">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:59:42" dir="88119527" entryId="88119541" expiretime="" gowner="mgiacalo" guid="A1FD6A02-9690-11E9-BD36-A3A17D2566EC" guidtime="11E99690" jobid="1531587769" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/031/root_archive.zip" md5="c2956ea86a2043eea7958109c00d4ff4" owner="mgiacalo" perm="755" replicated="0" size="3334906" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/031/root_archive.zip" type="f" />
+    </event>
+    <event name="28">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:42:31" dir="88119006" entryId="88119023" expiretime="" gowner="mgiacalo" guid="3D54347A-968E-11E9-A5F0-1BFEDFAD8894" guidtime="11E9968E" jobid="1531587770" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/032/root_archive.zip" md5="c4c61b983f985daefc583a3179a8e0c9" owner="mgiacalo" perm="755" replicated="0" size="3350317" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/032/root_archive.zip" type="f" />
+    </event>
+    <event name="29">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:05:04" dir="88119685" entryId="88119708" expiretime="" gowner="mgiacalo" guid="624C7550-9691-11E9-9F04-8322B134196D" guidtime="11E99691" jobid="1531587771" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/033/root_archive.zip" md5="db1e8291d5ac7439bd740f10ab022c6d" owner="mgiacalo" perm="755" replicated="0" size="3402093" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/033/root_archive.zip" type="f" />
+    </event>
+    <event name="3">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:27:20" dir="88124595" entryId="88124666" expiretime="" gowner="mgiacalo" guid="D25ADA48-969C-11E9-8D3C-9762F80668BD" guidtime="11E9969C" jobid="1531587742" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/004/root_archive.zip" md5="e85f4c39395e1e986f7bd821547f6ce0" owner="mgiacalo" perm="755" replicated="0" size="3290667" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/004/root_archive.zip" type="f" />
+    </event>
+    <event name="30">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:06:04" dir="88119716" entryId="88119722" expiretime="" gowner="mgiacalo" guid="8A67F690-9691-11E9-B3EC-6788D062D97E" guidtime="11E99691" jobid="1531587772" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/034/root_archive.zip" md5="59a42be16b6184091c13209dda02d070" owner="mgiacalo" perm="755" replicated="0" size="3390408" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/034/root_archive.zip" type="f" />
+    </event>
+    <event name="31">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:01:46" dir="88119603" entryId="88119615" expiretime="" gowner="mgiacalo" guid="EEF01D50-9690-11E9-9F2E-2387DF59DE69" guidtime="11E99690" jobid="1531587773" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/035/root_archive.zip" md5="9d5ea191680d015c46feab363de5b931" owner="mgiacalo" perm="755" replicated="0" size="3345968" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/035/root_archive.zip" type="f" />
+    </event>
+    <event name="32">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:07:05" dir="88119715" entryId="88119747" expiretime="" gowner="mgiacalo" guid="8937219C-9691-11E9-8D1C-0751FC83251B" guidtime="11E99691" jobid="1531587774" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/036/root_archive.zip" md5="9f90c8f255335591c1d41b025cea9f71" owner="mgiacalo" perm="755" replicated="0" size="3175590" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/036/root_archive.zip" type="f" />
+    </event>
+    <event name="33">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:36:37" dir="88120713" entryId="88120718" expiretime="" gowner="mgiacalo" guid="C986958A-9695-11E9-9759-9F042B4F6542" guidtime="11E99695" jobid="1531587775" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/037/root_archive.zip" md5="6f0f585c4948361e290c77c762164a3c" owner="mgiacalo" perm="755" replicated="0" size="2581355" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/037/root_archive.zip" type="f" />
+    </event>
+    <event name="34">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:10:12" dir="88119883" entryId="88119893" expiretime="" gowner="mgiacalo" guid="1FBF3EB0-9692-11E9-9EAB-9F8F2E8B66C4" guidtime="11E99692" jobid="1531587776" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/038/root_archive.zip" md5="af505f7892b1472bcfc0b6bfe834f9ee" owner="mgiacalo" perm="755" replicated="0" size="2564999" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/038/root_archive.zip" type="f" />
+    </event>
+    <event name="35">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:00:13" dir="88119560" entryId="88119571" expiretime="" gowner="mgiacalo" guid="BB9FF2B8-9690-11E9-87C3-07E55828892D" guidtime="11E99690" jobid="1531587777" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/039/root_archive.zip" md5="53eab6a11d9fa02841887d48e9c42471" owner="mgiacalo" perm="755" replicated="0" size="2512609" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/039/root_archive.zip" type="f" />
+    </event>
+    <event name="36">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:07:05" dir="88119735" entryId="88119753" expiretime="" gowner="mgiacalo" guid="AF7B2AB0-9691-11E9-A453-7BE470214859" guidtime="11E99691" jobid="1531587778" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/040/root_archive.zip" md5="0d7e8abb0a7589d963d9f770f4796c76" owner="mgiacalo" perm="755" replicated="0" size="3238606" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/040/root_archive.zip" type="f" />
+    </event>
+    <event name="37">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:37:18" dir="88118824" entryId="88118844" expiretime="" gowner="mgiacalo" guid="8367D206-968D-11E9-A4BC-A3C8335F185A" guidtime="11E9968D" jobid="1531587779" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/041/root_archive.zip" md5="77906bc0e4be428c303a449a6db8bec0" owner="mgiacalo" perm="755" replicated="0" size="2965497" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/041/root_archive.zip" type="f" />
+    </event>
+    <event name="38">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:54:32" dir="88119321" entryId="88119359" expiretime="" gowner="mgiacalo" guid="D70A639A-968F-11E9-9E9A-93EA24CEDA07" guidtime="11E9968F" jobid="1531587780" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/042/root_archive.zip" md5="726d77c69d8e6482f3bc65a53c83f807" owner="mgiacalo" perm="755" replicated="0" size="3192401" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/042/root_archive.zip" type="f" />
+    </event>
+    <event name="39">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:09:09" dir="88119828" entryId="88119841" expiretime="" gowner="mgiacalo" guid="F78446FC-9691-11E9-93F4-5B99AD4CAF65" guidtime="11E99691" jobid="1531587781" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/043/root_archive.zip" md5="1bf26fdf3d6382f8f6e3eedeb0843633" owner="mgiacalo" perm="755" replicated="0" size="3149416" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/043/root_archive.zip" type="f" />
+    </event>
+    <event name="4">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:00:03" dir="88119533" entryId="88119564" expiretime="" gowner="mgiacalo" guid="B14C1530-9690-11E9-A536-2FE08DCCD254" guidtime="11E99690" jobid="1531587743" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/005/root_archive.zip" md5="9fee48dfde230d2b1493c630ef88b6d7" owner="mgiacalo" perm="755" replicated="0" size="2544252" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/005/root_archive.zip" type="f" />
+    </event>
+    <event name="40">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:09:19" dir="88119776" entryId="88119855" expiretime="" gowner="mgiacalo" guid="D21E0BD2-9691-11E9-8777-CBD1981391E0" guidtime="11E99691" jobid="1531587782" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/044/root_archive.zip" md5="6e2e0020274577a8e64068c139111dff" owner="mgiacalo" perm="755" replicated="0" size="3220999" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/044/root_archive.zip" type="f" />
+    </event>
+    <event name="41">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:56:14" dir="88119445" entryId="88119464" expiretime="" gowner="mgiacalo" guid="29748D22-9690-11E9-943F-EB04F271BC5A" guidtime="11E99690" jobid="1531587783" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/045/root_archive.zip" md5="6c2ea87664621d0474c6c9e69d26b5dc" owner="mgiacalo" perm="755" replicated="0" size="3404878" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/045/root_archive.zip" type="f" />
+    </event>
+    <event name="42">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:58:39" dir="88119499" entryId="88119513" expiretime="" gowner="mgiacalo" guid="7C1FA23C-9690-11E9-8B0F-6FA0A76D0CF5" guidtime="11E99690" jobid="1531587784" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/046/root_archive.zip" md5="aea28208c888a8a41f04328192b0886a" owner="mgiacalo" perm="755" replicated="0" size="2905204" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/046/root_archive.zip" type="f" />
+    </event>
+    <event name="43">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:36:58" dir="88118804" entryId="88118829" expiretime="" gowner="mgiacalo" guid="78B5ECF8-968D-11E9-816B-2B7BFCC2D8AF" guidtime="11E9968D" jobid="1531587785" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/047/root_archive.zip" md5="dcdad725cc6fb727daf9a8b097ee08ef" owner="mgiacalo" perm="755" replicated="0" size="3034611" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/047/root_archive.zip" type="f" />
+    </event>
+    <event name="44">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:14:43" dir="88120048" entryId="88120062" expiretime="" gowner="mgiacalo" guid="C350D872-9692-11E9-8E7D-AF2CA8F50EF9" guidtime="11E99692" jobid="1531587786" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/048/root_archive.zip" md5="27eaf1d388b8783ce912bddbc091d1b0" owner="mgiacalo" perm="755" replicated="0" size="3343974" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/048/root_archive.zip" type="f" />
+    </event>
+    <event name="45">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:55:33" dir="88119405" entryId="88119423" expiretime="" gowner="mgiacalo" guid="117D5EB0-9690-11E9-9436-3FC1C58E1529" guidtime="11E99690" jobid="1531587787" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/049/root_archive.zip" md5="99d205af17419d909a961555ef43c9f3" owner="mgiacalo" perm="755" replicated="0" size="3432125" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/049/root_archive.zip" type="f" />
+    </event>
+    <event name="46">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:56:14" dir="88119444" entryId="88119470" expiretime="" gowner="mgiacalo" guid="2506D6BE-9690-11E9-97A7-9F181960B30F" guidtime="11E99690" jobid="1531587788" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/050/root_archive.zip" md5="161b502fe8e0b319fbf07fbc430ded1e" owner="mgiacalo" perm="755" replicated="0" size="3286143" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/050/root_archive.zip" type="f" />
+    </event>
+    <event name="47">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:42:19" dir="88119005" entryId="88119011" expiretime="" gowner="mgiacalo" guid="3B033FC2-968E-11E9-9AC5-3BE73601737C" guidtime="11E9968E" jobid="1531587789" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/051/root_archive.zip" md5="595a5d48613c3da63001d175f8f304ea" owner="mgiacalo" perm="755" replicated="0" size="3363486" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/051/root_archive.zip" type="f" />
+    </event>
+    <event name="48">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:52:51" dir="88119263" entryId="88119273" expiretime="" gowner="mgiacalo" guid="B2C498AC-968F-11E9-A7F4-8FA083B96F46" guidtime="11E9968F" jobid="1531587790" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/052/root_archive.zip" md5="9d37e5f2d1f156001a093aca762021c7" owner="mgiacalo" perm="755" replicated="0" size="3450994" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/052/root_archive.zip" type="f" />
+    </event>
+    <event name="49">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:54:53" dir="88119371" entryId="88119381" expiretime="" gowner="mgiacalo" guid="FE314E02-968F-11E9-896B-DB66B986A71E" guidtime="11E9968F" jobid="1531587791" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/053/root_archive.zip" md5="fa83147daeda85c30a6d6ad38ad1b0f0" owner="mgiacalo" perm="755" replicated="0" size="3377741" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/053/root_archive.zip" type="f" />
+    </event>
+    <event name="5">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:55:53" dir="88119430" entryId="88119449" expiretime="" gowner="mgiacalo" guid="2186203A-9690-11E9-AF93-279F395D44B8" guidtime="11E99690" jobid="1531587744" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/006/root_archive.zip" md5="18c5edac9c54f4a88d3f86f0e9c03b23" owner="mgiacalo" perm="755" replicated="0" size="2968243" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/006/root_archive.zip" type="f" />
+    </event>
+    <event name="50">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:35:15" dir="88120688" entryId="88120700" expiretime="" gowner="mgiacalo" guid="A098CC24-9695-11E9-ABB9-0FCC035803A7" guidtime="11E99695" jobid="1531587792" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/054/root_archive.zip" md5="1d4b32bfe35242091065343f112a57cf" owner="mgiacalo" perm="755" replicated="0" size="3384485" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/054/root_archive.zip" type="f" />
+    </event>
+    <event name="51">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:08:06" dir="88119775" entryId="88119789" expiretime="" gowner="mgiacalo" guid="D004985C-9691-11E9-9BB7-332D7551436D" guidtime="11E99691" jobid="1531587793" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/055/root_archive.zip" md5="16c3eec7e2c603be9acaf0de8e576226" owner="mgiacalo" perm="755" replicated="0" size="3374090" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/055/root_archive.zip" type="f" />
+    </event>
+    <event name="52">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:06:24" dir="88119717" entryId="88119731" expiretime="" gowner="mgiacalo" guid="8C9BC91E-9691-11E9-B9CE-1F241189D4A2" guidtime="11E99691" jobid="1531587794" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/056/root_archive.zip" md5="3f17af7586a477bc6d9b4d2ffa1afbdf" owner="mgiacalo" perm="755" replicated="0" size="3349000" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/056/root_archive.zip" type="f" />
+    </event>
+    <event name="53">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:15:45" dir="88120084" entryId="88120089" expiretime="" gowner="mgiacalo" guid="E734CC12-9692-11E9-B0F9-8756FDCA79B2" guidtime="11E99692" jobid="1531587795" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/057/root_archive.zip" md5="0654ab6871f00a79ea6ca76817032bb1" owner="mgiacalo" perm="755" replicated="0" size="3401789" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/057/root_archive.zip" type="f" />
+    </event>
+    <event name="54">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:18:35" dir="88118439" entryId="88118453" expiretime="" gowner="mgiacalo" guid="BA39BCA2-968A-11E9-8519-4371A3EAD229" guidtime="11E9968A" jobid="1531587796" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/058/root_archive.zip" md5="e51eeeece3a476a71db9a156276511e9" owner="mgiacalo" perm="755" replicated="0" size="2611978" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/058/root_archive.zip" type="f" />
+    </event>
+    <event name="55">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:53:43" dir="88117936" entryId="88117941" expiretime="" gowner="mgiacalo" guid="70A80E52-9687-11E9-9CA2-47CAADAB403E" guidtime="11E99687" jobid="1531587797" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/059/root_archive.zip" md5="d706aa956cb9cba80b3add94be4a9c04" owner="mgiacalo" perm="755" replicated="0" size="1473790" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/059/root_archive.zip" type="f" />
+    </event>
+    <event name="56">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:13:03" dir="88118374" entryId="88118385" expiretime="" gowner="mgiacalo" guid="F7B25D9C-9689-11E9-BC7D-CF596E6FDB58" guidtime="11E99689" jobid="1531587798" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/060/root_archive.zip" md5="52eaf6d6fdbb18c0b42581e11a5fed85" owner="mgiacalo" perm="755" replicated="0" size="2147412" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/060/root_archive.zip" type="f" />
+    </event>
+    <event name="57">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:11:30" dir="88119937" entryId="88119954" expiretime="" gowner="mgiacalo" guid="48601E70-9692-11E9-98D8-8754F851A2CB" guidtime="11E99692" jobid="1531587799" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/061/root_archive.zip" md5="f9ea5d89f6bf3138d2f4599c3b4c2732" owner="mgiacalo" perm="755" replicated="0" size="3383538" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/061/root_archive.zip" type="f" />
+    </event>
+    <event name="58">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:20:27" dir="88120230" entryId="88120255" expiretime="" gowner="mgiacalo" guid="89072EC2-9693-11E9-98B7-77FDF5E660B7" guidtime="11E99693" jobid="1531587800" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/062/root_archive.zip" md5="1b0bfbaeb5903a7fa4b9fb966ea1cac8" owner="mgiacalo" perm="755" replicated="0" size="3335032" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/062/root_archive.zip" type="f" />
+    </event>
+    <event name="59">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:56:35" dir="88119460" entryId="88119480" expiretime="" gowner="mgiacalo" guid="360520A6-9690-11E9-91D1-47F7A602116B" guidtime="11E99690" jobid="1531587801" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/063/root_archive.zip" md5="36e9ba96ef713a7a5029db0b91920420" owner="mgiacalo" perm="755" replicated="0" size="3226713" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/063/root_archive.zip" type="f" />
+    </event>
+    <event name="6">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:38:21" dir="88120748" entryId="88120762" expiretime="" gowner="mgiacalo" guid="0AAEEA62-9696-11E9-BB49-8F86AC88CC82" guidtime="11E99696" jobid="1531587745" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/007/root_archive.zip" md5="6988d8d9ec5d4671a099eef019e8396b" owner="mgiacalo" perm="755" replicated="0" size="3209273" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/007/root_archive.zip" type="f" />
+    </event>
+    <event name="60">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:54:02" dir="88119323" entryId="88119346" expiretime="" gowner="mgiacalo" guid="D9B64672-968F-11E9-B3C7-23CE83F0A626" guidtime="11E9968F" jobid="1531587802" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/064/root_archive.zip" md5="077435e8c727e21a1150f91045196ebe" owner="mgiacalo" perm="755" replicated="0" size="2742904" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/064/root_archive.zip" type="f" />
+    </event>
+    <event name="61">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:03:51" dir="88119655" entryId="88119665" expiretime="" gowner="mgiacalo" guid="3D6EDD5E-9691-11E9-90F9-F77D124EF375" guidtime="11E99691" jobid="1531587803" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/065/root_archive.zip" md5="4708a85dc210f787f37e3837e265dd32" owner="mgiacalo" perm="755" replicated="0" size="3021470" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/065/root_archive.zip" type="f" />
+    </event>
+    <event name="62">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:36" dir="88118092" entryId="88118128" expiretime="" gowner="mgiacalo" guid="015C0DC2-9688-11E9-BFA3-1FCA2D519607" guidtime="11E99688" jobid="1531587804" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/066/root_archive.zip" md5="6c76b35d42976979433fc3acf93be563" owner="mgiacalo" perm="755" replicated="0" size="2136903" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/066/root_archive.zip" type="f" />
+    </event>
+    <event name="63">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:20:07" dir="88120211" entryId="88120242" expiretime="" gowner="mgiacalo" guid="7E6D8A1A-9693-11E9-BF18-B7C40BAC3AB7" guidtime="11E99693" jobid="1531587805" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/067/root_archive.zip" md5="d951aeed56d98b95fb48eaac077cd89f" owner="mgiacalo" perm="755" replicated="0" size="3332420" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/067/root_archive.zip" type="f" />
+    </event>
+    <event name="64">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:07:35" dir="88119757" entryId="88119766" expiretime="" gowner="mgiacalo" guid="C0D85BB6-9691-11E9-8C51-AF0BD023DABF" guidtime="11E99691" jobid="1531587806" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/068/root_archive.zip" md5="3a7cd1137bca7e37a7569376bb8852ba" owner="mgiacalo" perm="755" replicated="0" size="3365430" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/068/root_archive.zip" type="f" />
+    </event>
+    <event name="65">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:20:17" dir="88120229" entryId="88120248" expiretime="" gowner="mgiacalo" guid="874DAE62-9693-11E9-8BE5-A79A804AD1F5" guidtime="11E99693" jobid="1531587807" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/069/root_archive.zip" md5="a7b8cf93609f62ab78eb0451b78ab8f1" owner="mgiacalo" perm="755" replicated="0" size="3368361" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/069/root_archive.zip" type="f" />
+    </event>
+    <event name="66">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:28:24" dir="88120482" entryId="88120502" expiretime="" gowner="mgiacalo" guid="A6FD860A-9694-11E9-9B43-F30EE2C64BE3" guidtime="11E99694" jobid="1531587808" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/070/root_archive.zip" md5="b96275c2b93c4c671c7152dedbcec555" owner="mgiacalo" perm="755" replicated="0" size="3432521" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/070/root_archive.zip" type="f" />
+    </event>
+    <event name="67">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:18:46" dir="88120125" entryId="88120177" expiretime="" gowner="mgiacalo" guid="3A71CCEA-9693-11E9-AC19-4F04720367B5" guidtime="11E99693" jobid="1531587809" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/071/root_archive.zip" md5="c9973dc502ba61f96aa402841aad4f07" owner="mgiacalo" perm="755" replicated="0" size="2559993" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/071/root_archive.zip" type="f" />
+    </event>
+    <event name="68">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:23:29" dir="88120327" entryId="88120339" expiretime="" gowner="mgiacalo" guid="FB0AEC48-9693-11E9-B650-EB8EDFA75C57" guidtime="11E99693" jobid="1531587810" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/072/root_archive.zip" md5="106f4c91cd39f026ff5326295b689b0e" owner="mgiacalo" perm="755" replicated="0" size="3142715" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/072/root_archive.zip" type="f" />
+    </event>
+    <event name="69">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:13:21" dir="88120015" entryId="88120021" expiretime="" gowner="mgiacalo" guid="8FB47AC8-9692-11E9-89B7-5F5F57EE386C" guidtime="11E99692" jobid="1531587811" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/073/root_archive.zip" md5="6c229f4e689f66610ecbcf25abd3779e" owner="mgiacalo" perm="755" replicated="0" size="3203104" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/073/root_archive.zip" type="f" />
+    </event>
+    <event name="7">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:15:14" dir="88120016" entryId="88120081" expiretime="" gowner="mgiacalo" guid="93D5A05A-9692-11E9-94CA-8BE4CFE5F2B4" guidtime="11E99692" jobid="1531587746" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/008/root_archive.zip" md5="6be0949e7152e27f2c753cf6ca2f384a" owner="mgiacalo" perm="755" replicated="0" size="2940877" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/008/root_archive.zip" type="f" />
+    </event>
+    <event name="70">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:21:19" dir="88118480" entryId="88118484" expiretime="" gowner="mgiacalo" guid="4D46E542-968B-11E9-BF95-6F4C6611F96B" guidtime="11E9968B" jobid="1531587812" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/074/root_archive.zip" md5="26b6f0fe389962cbb82ce76d9ae0da82" owner="mgiacalo" perm="755" replicated="0" size="2275276" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/074/root_archive.zip" type="f" />
+    </event>
+    <event name="71">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:54:04" dir="88117937" entryId="88117958" expiretime="" gowner="mgiacalo" guid="71927C62-9687-11E9-AE7B-8F8604AE7B5F" guidtime="11E99687" jobid="1531587813" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/075/root_archive.zip" md5="b9d18a6cd92805de1d7eeb9bd9b9b3be" owner="mgiacalo" perm="755" replicated="0" size="1450677" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/075/root_archive.zip" type="f" />
+    </event>
+    <event name="72">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:10" dir="88118136" entryId="88118164" expiretime="" gowner="mgiacalo" guid="2BEB2FFA-9688-11E9-9CEB-2F21042C6815" guidtime="11E99688" jobid="1531587814" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/076/root_archive.zip" md5="d1486e598192d34140853e09dc1a80c6" owner="mgiacalo" perm="755" replicated="0" size="1821746" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/076/root_archive.zip" type="f" />
+    </event>
+    <event name="73">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:22" dir="88118022" entryId="88118078" expiretime="" gowner="mgiacalo" guid="CC61EBFA-9687-11E9-8921-B3DAEF2F9313" guidtime="11E99687" jobid="1531587815" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/077/root_archive.zip" md5="b8ce08b3f51badcc2962007ed713cc8f" owner="mgiacalo" perm="755" replicated="0" size="1732531" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/077/root_archive.zip" type="f" />
+    </event>
+    <event name="74">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:58:36" dir="88118091" entryId="88118133" expiretime="" gowner="mgiacalo" guid="000D445E-9688-11E9-8EAA-4303588E8E3D" guidtime="11E99688" jobid="1531587816" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/078/root_archive.zip" md5="2619a3cf684f026d49dc669a8e438475" owner="mgiacalo" perm="755" replicated="0" size="1703737" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/078/root_archive.zip" type="f" />
+    </event>
+    <event name="75">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:56:25" dir="88118011" entryId="88118053" expiretime="" gowner="mgiacalo" guid="C81C9B08-9687-11E9-891E-5F24DED4E9B8" guidtime="11E99687" jobid="1531587817" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/079/root_archive.zip" md5="32ea2e9799f860fa72d2f08d3e17c42c" owner="mgiacalo" perm="755" replicated="0" size="1758226" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/079/root_archive.zip" type="f" />
+    </event>
+    <event name="76">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:28:24" dir="88120460" entryId="88120508" expiretime="" gowner="mgiacalo" guid="81AB7F7E-9694-11E9-8A45-17DB4A1C6D57" guidtime="11E99694" jobid="1531587818" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/080/root_archive.zip" md5="4936beb382d32359d845fcd2c59a0c0d" owner="mgiacalo" perm="755" replicated="0" size="2704673" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/080/root_archive.zip" type="f" />
+    </event>
+    <event name="77">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:00:52" dir="88118150" entryId="88118204" expiretime="" gowner="mgiacalo" guid="4794E0CA-9688-11E9-8658-7FBC75711EE5" guidtime="11E99688" jobid="1531587819" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/081/root_archive.zip" md5="1e3427383b7e0661ef7456ad563b7dbd" owner="mgiacalo" perm="755" replicated="0" size="2113469" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/081/root_archive.zip" type="f" />
+    </event>
+    <event name="78">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:55:44" dir="88117963" entryId="88117998" expiretime="" gowner="mgiacalo" guid="973E4B94-9687-11E9-B58C-873F08201C90" guidtime="11E99687" jobid="1531587820" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/082/root_archive.zip" md5="bc57157f39f51d03336943f1c864633f" owner="mgiacalo" perm="755" replicated="0" size="1432780" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/082/root_archive.zip" type="f" />
+    </event>
+    <event name="79">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:33:15" dir="88118650" entryId="88118660" expiretime="" gowner="mgiacalo" guid="F77923EE-968C-11E9-9A85-E34CC51975F1" guidtime="11E9968C" jobid="1531587821" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/083/root_archive.zip" md5="01aa442f5d7e8b33af931d945df50e3e" owner="mgiacalo" perm="755" replicated="0" size="3169726" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/083/root_archive.zip" type="f" />
+    </event>
+    <event name="8">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:24:53" dir="88120342" entryId="88120395" expiretime="" gowner="mgiacalo" guid="08396CB4-9694-11E9-AA34-0FA113A3089A" guidtime="11E99694" jobid="1531587748" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/010/root_archive.zip" md5="9cb55af7adaa56656c3ec2ce3f5e4239" owner="mgiacalo" perm="755" replicated="0" size="3390925" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/010/root_archive.zip" type="f" />
+    </event>
+    <event name="80">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:59:52" dir="88119544" entryId="88119549" expiretime="" gowner="mgiacalo" guid="B3687B2E-9690-11E9-9512-73B463511145" guidtime="11E99690" jobid="1531587822" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/084/root_archive.zip" md5="337d4045e83f8c72d794630b399834ab" owner="mgiacalo" perm="755" replicated="0" size="3367091" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/084/root_archive.zip" type="f" />
+    </event>
+    <event name="81">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:25:46" dir="88118533" entryId="88118557" expiretime="" gowner="mgiacalo" guid="CDDB9266-968B-11E9-834E-8F6B5C3C0B27" guidtime="11E9968B" jobid="1531587823" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/085/root_archive.zip" md5="8434f852cfa181561ac412ec8269438e" owner="mgiacalo" perm="755" replicated="0" size="3093035" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/085/root_archive.zip" type="f" />
+    </event>
+    <event name="82">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:29:10" dir="88118596" entryId="88118601" expiretime="" gowner="mgiacalo" guid="5CE270CE-968C-11E9-85FC-8766AE5ADD2B" guidtime="11E9968C" jobid="1531587824" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/086/root_archive.zip" md5="aecc2de3ea912607b02cbd72e514fb74" owner="mgiacalo" perm="755" replicated="0" size="2594696" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/086/root_archive.zip" type="f" />
+    </event>
+    <event name="83">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:20:18" dir="88118458" entryId="88118464" expiretime="" gowner="mgiacalo" guid="249823FE-968B-11E9-B706-6FE3D87FE46B" guidtime="11E9968B" jobid="1531587825" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/087/root_archive.zip" md5="a946a162944c5bbb729534c12978cf4d" owner="mgiacalo" perm="755" replicated="0" size="3054681" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/087/root_archive.zip" type="f" />
+    </event>
+    <event name="84">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:22:08" dir="88120279" entryId="88120290" expiretime="" gowner="mgiacalo" guid="C74307C4-9693-11E9-BD82-9F5157B03D7B" guidtime="11E99693" jobid="1531587826" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/088/root_archive.zip" md5="7d52ed988f3b5f973b357a67a82aff83" owner="mgiacalo" perm="755" replicated="0" size="2504252" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/088/root_archive.zip" type="f" />
+    </event>
+    <event name="85">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:10:30" dir="88118344" entryId="88118365" expiretime="" gowner="mgiacalo" guid="9E3AAFF8-9689-11E9-A8CC-4BA6EC2F1370" guidtime="11E99689" jobid="1531587827" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/089/root_archive.zip" md5="7a8a704c3acefd3ce1f83fffdf94b3cc" owner="mgiacalo" perm="755" replicated="0" size="2617330" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/089/root_archive.zip" type="f" />
+    </event>
+    <event name="86">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:06:55" dir="88118279" entryId="88118293" expiretime="" gowner="mgiacalo" guid="40FAFC6C-9689-11E9-8DEB-BB9F3C01A2A9" guidtime="11E99689" jobid="1531587828" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/090/root_archive.zip" md5="c6d25db0e6805d7b5567d8acea39d834" owner="mgiacalo" perm="755" replicated="0" size="2470642" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/090/root_archive.zip" type="f" />
+    </event>
+    <event name="87">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:07:47" dir="88118303" entryId="88118317" expiretime="" gowner="mgiacalo" guid="696FFEC2-9689-11E9-B3AC-4FB43BD6C905" guidtime="11E99689" jobid="1531587829" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/091/root_archive.zip" md5="072035d1b80fe10af0c791319c920581" owner="mgiacalo" perm="755" replicated="0" size="2502804" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/091/root_archive.zip" type="f" />
+    </event>
+    <event name="88">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:53:00" dir="88119294" entryId="88119298" expiretime="" gowner="mgiacalo" guid="C11A22A0-968F-11E9-BAF6-77D6978F14A6" guidtime="11E9968F" jobid="1531587830" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/092/root_archive.zip" md5="29fb5ef4a0f1de13eea4e04923e19384" owner="mgiacalo" perm="755" replicated="0" size="3084184" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/092/root_archive.zip" type="f" />
+    </event>
+    <event name="89">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:31:01" dir="88124919" entryId="88124956" expiretime="" gowner="mgiacalo" guid="65AA380C-969D-11E9-8747-9754AB579BEC" guidtime="11E9969D" jobid="1531587831" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/093/root_archive.zip" md5="c0d63ac4a2061bf0e2d53ea57e452274" owner="mgiacalo" perm="755" replicated="0" size="3235557" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/093/root_archive.zip" type="f" />
+    </event>
+    <event name="9">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:05:44" dir="88121632" entryId="88121642" expiretime="" gowner="mgiacalo" guid="DFA10A7C-9699-11E9-BE5A-53604A0C1132" guidtime="11E99699" jobid="1531587750" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/012/root_archive.zip" md5="2023ede514ccb9a3e6fe262b98ce8fc6" owner="mgiacalo" perm="755" replicated="0" size="3409523" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/012/root_archive.zip" type="f" />
+    </event>
+    <event name="90">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:15:09" dir="88122059" entryId="88122117" expiretime="" gowner="mgiacalo" guid="1F051A72-969B-11E9-BAC0-5B71E1B03134" guidtime="11E9969B" jobid="1531587832" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/094/root_archive.zip" md5="71358f78668a6bd678dc28a99ef48009" owner="mgiacalo" perm="755" replicated="0" size="3123797" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/094/root_archive.zip" type="f" />
+    </event>
+    <event name="91">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:41:28" dir="88118979" entryId="88118983" expiretime="" gowner="mgiacalo" guid="1BAC786E-968E-11E9-A1DB-AFEFD9EC581C" guidtime="11E9968E" jobid="1531587833" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/095/root_archive.zip" md5="82756288072333b8bb933fc0d384bb4b" owner="mgiacalo" perm="755" replicated="0" size="3137425" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/095/root_archive.zip" type="f" />
+    </event>
+    <event name="92">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:55:43" dir="88119301" entryId="88119437" expiretime="" gowner="mgiacalo" guid="C5AC5C2A-968F-11E9-AC9D-07F18F495818" guidtime="11E9968F" jobid="1531587834" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/096/root_archive.zip" md5="a2b87ab7881b07d0104697fe7de2f138" owner="mgiacalo" perm="755" replicated="0" size="2893733" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/096/root_archive.zip" type="f" />
+    </event>
+    <event name="93">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:31:12" dir="88118623" entryId="88118627" expiretime="" gowner="mgiacalo" guid="B203D52A-968C-11E9-BE82-A7CE043C3AAD" guidtime="11E9968C" jobid="1531587835" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/097/root_archive.zip" md5="88755a6b9ab1afc91ae7353cd6089eee" owner="mgiacalo" perm="755" replicated="0" size="2632592" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/097/root_archive.zip" type="f" />
+    </event>
+    <event name="94">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 18:20:47" dir="88122839" entryId="88123365" expiretime="" gowner="mgiacalo" guid="AA32D364-969B-11E9-AA19-C320F1D18A38" guidtime="11E9969B" jobid="1531587836" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/098/root_archive.zip" md5="7c468f764bd231dc0a592c7a2cd02059" owner="mgiacalo" perm="755" replicated="0" size="2866922" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/098/root_archive.zip" type="f" />
+    </event>
+    <event name="95">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:47:29" dir="88120916" entryId="88121030" expiretime="" gowner="mgiacalo" guid="E6D9BE4A-9696-11E9-9A22-B3FF239E2397" guidtime="11E99696" jobid="1531587837" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/099/root_archive.zip" md5="cd9477f7e367082589785d8fba5a9421" owner="mgiacalo" perm="755" replicated="0" size="3042552" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/099/root_archive.zip" type="f" />
+    </event>
+    <event name="96">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 16:43:35" dir="88119065" entryId="88119069" expiretime="" gowner="mgiacalo" guid="6BFF2B86-968E-11E9-8B2B-6B80673A52BB" guidtime="11E9968E" jobid="1531587838" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/100/root_archive.zip" md5="3a8c1b4e10af7e1314fafa5a74409f6a" owner="mgiacalo" perm="755" replicated="0" size="2570827" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/100/root_archive.zip" type="f" />
+    </event>
+    <event name="97">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:37:50" dir="88120721" entryId="88120744" expiretime="" gowner="mgiacalo" guid="DF00082E-9695-11E9-88A3-2B4683D21907" guidtime="11E99695" jobid="1531587839" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/101/root_archive.zip" md5="630c482000b2853ffdc7e8bbde466019" owner="mgiacalo" perm="755" replicated="0" size="2947192" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/101/root_archive.zip" type="f" />
+    </event>
+    <event name="98">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 17:11:40" dir="88119949" entryId="88119960" expiretime="" gowner="mgiacalo" guid="552CED68-9692-11E9-BFE8-634B645906B4" guidtime="11E99692" jobid="1531587840" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/102/root_archive.zip" md5="9aba348961c2785d6782e08a8179a897" owner="mgiacalo" perm="755" replicated="0" size="2670502" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/102/root_archive.zip" type="f" />
+    </event>
+    <event name="99">
+      <file name="root_archive.zip" aclId="" broken="0" ctime="2019-06-24 15:57:45" dir="88118075" entryId="88118106" expiretime="" gowner="mgiacalo" guid="FCA0E640-9687-11E9-B0B6-BF8A3BC8DC7F" guidtime="11E99687" jobid="1531587841" lfn="/alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/103/root_archive.zip" md5="16049f0307b5c6b0a1c917cb4ba115d0" owner="mgiacalo" perm="755" replicated="0" size="1490028" turl="alien:///alice/cern.ch/user/m/mgiacalo/testDst_240619/myOutputDir/000289971_000289884/103/root_archive.zip" type="f" />
+    </event>
+    <info command="[/alice/cern.ch/user/m/mgiacalo/]: find -z -x Stage_1 /alice/cern.ch/user/m/mgiacalo//testDst_240619/myOutputDir/000289971_000289884 *root_archive.zip" creator="admin" date="Tue Jun 25 16:01:17 CEST 2019" timestamp="1561471277" />
+  </collection>
+</alien>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

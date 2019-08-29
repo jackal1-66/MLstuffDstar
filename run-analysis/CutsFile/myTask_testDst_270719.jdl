@@ -1,0 +1,49 @@
+Jobtag = {
+   "comment:Automatically generated analysis JDL"
+};
+# Input xml collections
+InputDataCollection = {
+   "LF:/alice/cern.ch/user/m/mgiacalo/testDst_270719/$1,nodownload"
+};
+# Output directory
+OutputDir = "/alice/cern.ch/user/m/mgiacalo//testDst_270719/myOutputDir/$2/#alien_counter_03i#";
+# List of requested packages
+Packages = {
+   "VO_ALICE@AliPhysics::vAN-20190623_ROOT6-1",
+   "VO_ALICE@APISCONFIG::V1.1x"
+};
+# List of input files to be uploaded to workers
+InputFile = {
+   "LF:/alice/cern.ch/user/m/mgiacalo/testDst_270719/myAnalysis.C",
+   "LF:/alice/cern.ch/user/m/mgiacalo/testDst_270719/myTask_testDst_270719.root"
+};
+# This is the startup script
+Executable = "/alice/cern.ch/user/m/mgiacalo/testDst_270719/myTask_testDst_270719.sh";
+# We split per SE or file
+Split = "se";
+# Time after which the job is killed (1166 min.)
+TTL = "70000";
+# Maximum number of input files to be processed per subjob
+SplitMaxInputFileNumber = "4";
+# Format of input data
+InputDataListFormat = "xml-single";
+# Collection name to be processed on each worker node
+InputDataList = "wn.xml";
+# List of output files and archives
+Output = {
+   "log_archive.zip:std*@disk=1",
+   "root_archive.zip:EventStat_temp.root,AnalysisResults.root,*.stat@disk=2"
+};
+# AliEn price for this job
+Price = "1";
+# Validation script to be run for each subjob
+Validationcommand = "/alice/cern.ch/user/m/mgiacalo/testDst_270719/myTask_testDst_270719_validation.sh";
+User = "mgiacalo";
+
+# JDL variables
+JDLVariables = 
+{
+   "Packages",
+   "OutputDir"
+};
+Workdirectorysize = {"5000MB"};

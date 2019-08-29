@@ -1,0 +1,15 @@
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_10/merge/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_11/merge_runlist_1/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_11/merge_runlist_2/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_2/merge/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_3/merge/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_4/merge_runlist_1/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_4/merge_runlist_2/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_5/merge_runlist_1/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_5/merge_runlist_2/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_6/merge/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_7/merge_runlist_1/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_7/merge_runlist_2/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_8/merge_runlist_1/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_8/merge_runlist_2/AnalysisResults.root   
+/alice/cern.ch/user/a/alitrain/PWGHF/D2H_pp/2392_20190702-1542_child_9/merge/AnalysisResults.root   
